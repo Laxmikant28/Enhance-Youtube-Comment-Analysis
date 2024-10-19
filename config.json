@@ -3,7 +3,7 @@
       "local_server": "True",
       "local_url": "mysql://root:@localhost/youtube_comment",
       "prod_url": "mysql://root:@localhost/youtube_comment",
-      "google_key" :"AIzaSyC1rNhWH4UwTFoqZ8QrzYf5brG9kR9N2Qg"
+      "google_key" :" put your API "
 
     }
   }
